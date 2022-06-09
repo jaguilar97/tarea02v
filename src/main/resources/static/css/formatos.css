@@ -1,0 +1,166 @@
+#encabezadop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15%;
+    width: 100%;
+    background-color: #6633ff;
+    color: white;
+    text-align: center;
+}
+
+#encabezado {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+}
+
+#encabezado2 {
+    position: absolute;
+    top: 10.5%;
+    left: 0;
+    height: 6%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+}
+
+#encabezado3 {
+    position: absolute;
+    top: 10%;
+    left: 0;
+    height: 15%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+}
+
+#cuerpo {
+    position: absolute;
+    top: 12%;
+    left: 16.7%;
+    height: 85%;
+    width: 80%;
+    background-color: #000000;
+    color: black;
+}
+
+#cuerpo2 {
+    position: absolute;
+    top: 16%;
+    left: 0;
+    height: 150%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+}
+
+#cuerpoWZ {
+    position: absolute;
+    top: 22%;
+    left: 0;
+    height: 150%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+}
+
+#cuerpocat {
+    position: absolute;
+    top: 14%;
+    left: 0;
+    height: 76%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+}
+
+#cuerpomp {
+    position: absolute;
+    top: 15%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    color: black;
+}
+
+#unidad {
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    height: 150%;
+    width: 30%;
+    background-color: #000000;
+    color: white;
+}
+
+#barraLateral {
+    position: absolute;
+    top: 15%;
+    left: 0;
+    height: 88%;
+    width: 20%;
+    background-color: #000000;
+    color: black;
+}
+
+#piePaginacat {
+    position: absolute;
+    top: 90%;
+    left: 0;
+    height: 10%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.menu{
+    display: list-item;
+    list-style: none;
+}
+
+.nav-menu {
+    display: flex;
+    margin-left: 40px;
+    list-style: none;
+}
+
+.nav-menu-item {
+    font-size: 18px;
+    margin: 10px;
+    list-style: none;
+}
+.nav-menu-link {
+    border-radius: 4px;
+}
+.nav-menu-link:hover {
+    background-color: cornflowerblue;
+    transition: 0.5s;
+}
+
+#encabezadoTabla {
+    font-size: 20px;
+    color: white;
+    background-color: midnightblue;
+}
+#tablaResumen tr {
+    font-size: 25px;
+}
+#tablaResumen tr:nth-child(odd) {
+    background-color: darkgray;
+}
+#tablaResumen tr:nth-child(even) {
+    background-color: white;
+}
+
